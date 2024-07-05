@@ -1,1 +1,1 @@
-eosphorosai/dbgpt:latest registry.cn-hangzhou.aliyuncs.com/hadocker/eosphorosai/dbgpt:latest
+eosphorosai/dbgpt:latest registry.cn-hangzhou.aliyuncs.com/hadocker/dbgpt:latest
