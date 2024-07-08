@@ -1,1 +1,1 @@
-eosphorosai/dbgpt:latest registry.cn-hangzhou.aliyuncs.com/hadocker/dbgpt:latest
+fauria/vsftpd:latest registry.cn-hangzhou.aliyuncs.com/hadocker/vsftpd:latest
