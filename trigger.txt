@@ -1,1 +1,1 @@
-redis:7 registry.cn-beijing.aliyuncs.com/ijx-public/redis:7
+redis:7 registry.cn-hangzhou.aliyuncs.com/hadocker/redis:7
