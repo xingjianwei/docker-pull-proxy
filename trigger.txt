@@ -1,1 +1,1 @@
-fauria/vsftpd:latest registry.cn-hangzhou.aliyuncs.com/hadocker/vsftpd:latest
+apachesuperset.docker.scarf.sh/apache/superset:latest
