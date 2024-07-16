@@ -1,1 +1,1 @@
-apachesuperset.docker.scarf.sh/apache/superset:latest
+redis:7
