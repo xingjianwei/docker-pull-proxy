@@ -1,1 +1,1 @@
-redis:7 registry.cn-hangzhou.aliyuncs.com/hadocker/redis:7
+apachesuperset.docker.scarf.sh/apache/superset:latest registry.cn-hangzhou.aliyuncs.com/hadocker/superset:latest
