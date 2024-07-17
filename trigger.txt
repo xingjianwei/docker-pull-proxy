@@ -1,1 +1,1 @@
-trinodb/trino:451 registry.cn-hangzhou.aliyuncs.com/hadocker/trino:451
+trinodb/trino:452 registry.cn-hangzhou.aliyuncs.com/hadocker/trino:452
