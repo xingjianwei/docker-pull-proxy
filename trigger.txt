@@ -1,1 +1,1 @@
-bitnami/postgresql:11.11.0 registry.cn-hangzhou.aliyuncs.com/hadocker/postgresql:11.11.0
+bitnami/zookeeper:3.6.2 registry.cn-hangzhou.aliyuncs.com/hadocker/zookeeper:3.6.2
