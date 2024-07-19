@@ -1,1 +1,1 @@
-apache/dolphinscheduler-api:3.1.8 registry.cn-hangzhou.aliyuncs.com/hadocker/dolphinscheduler-api:3.1.8
+apache/dolphinscheduler-alert-server:3.1.8 registry.cn-hangzhou.aliyuncs.com/hadocker/dolphinscheduler-alert-server:3.1.8
