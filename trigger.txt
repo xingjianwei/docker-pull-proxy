@@ -1,1 +1,1 @@
-bitnami/zookeeper:3.6.2 registry.cn-hangzhou.aliyuncs.com/hadocker/zookeeper:3.6.2
+apache/dolphinscheduler-tools:3.1.8 registry.cn-hangzhou.aliyuncs.com/hadocker/dolphinscheduler-tools:3.1.8
