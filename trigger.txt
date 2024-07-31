@@ -1,1 +1,1 @@
-apache/hive:4.0.0 registry.cn-hangzhou.aliyuncs.com/hadocker/hive:4.0.0
+sqlchat/sqlchat registry.cn-hangzhou.aliyuncs.com/hadocker/sqlchat/sqlchat
