@@ -1,1 +1,1 @@
-sqlchat/sqlchat registry.cn-hangzhou.aliyuncs.com/hadocker/sqlchat
+ubuntu:20.04 registry.cn-hangzhou.aliyuncs.com/hadocker/ubuntu:20.04
